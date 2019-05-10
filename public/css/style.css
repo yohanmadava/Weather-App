@@ -1,0 +1,284 @@
+.morning{
+    background-image: url("../Images/Mask Group 1.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.afternoon{
+    background-image: url("../Images/Mask Group 2.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.night{
+    background-image: url("../Images/Mask Group 3.png"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.location-area{
+    padding-top: 35px;
+    text-align: center;
+    position: relative;
+}
+
+.location{
+    border-radius: 30px;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    padding-left: 45px;
+    /* position: relative; */
+}
+
+.search{
+    position: absolute;
+    left: 30px;
+    top: 10px;
+}
+
+.main-widget{
+    padding-top: 56px;
+}
+
+#main-icon{
+    font-size: 60px;
+    color: white;
+    float: right;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.left-part{
+    border-left: 3px solid white;
+}
+
+.main-day{
+    margin: 0;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.month{
+    margin: 0;
+    font-size: 20px;
+    color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.value{
+    text-align: center;
+    padding-top: 70px;
+}
+
+.number{
+    margin: 0;
+    color: white;
+    font-size: 90px;
+}
+
+.status{
+    margin: 0;
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+.fourth-section{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.wind-section{
+    background: rgb(255, 255, 255, 0.3);
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.humidity-section{
+    background: rgb(255, 255, 255, 0.3);
+    margin-right: 20px;
+    border-radius: 10px;
+}
+
+.pressure-section{
+    background: rgb(255, 255, 255, 0.3);
+    border-radius: 10px;
+}
+
+.wind-icon{
+    color: white;
+    font-size: 35px;
+    padding-top: 15px;
+} 
+
+
+.humidity-icon{
+    color: white;
+    font-size: 35px;
+    padding-top: 15px;
+}
+
+.pressure-icon{
+    color: white;
+    font-size: 35px;
+    padding-top: 15px;
+}
+
+.wind-heading1-morning{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+}
+
+.wind-heading1-afternoon{
+    margin: 0;
+    padding-top: 10px;
+    color: black;
+}
+
+.wind-heading1-night{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+}
+
+.wind-heading2-morning{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.wind-heading2-afternoon{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: black;
+}
+
+.wind-heading2-night{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.humidity-heading1-morning{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+}
+
+.humidity-heading1-afternoon{
+    margin: 0;
+    padding-top: 10px;
+    color: black;
+}
+
+.humidity-heading1-night{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+}
+
+.humidity-heading2-morning{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.humidity-heading2-afternoon{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: black;
+}
+
+.humidity-heading2-night{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.pressure-heading1-morning{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+}
+
+.pressure-heading1-afternoon{
+    margin: 0;
+    padding-top: 10px;
+    color: black;
+}
+
+.pressure-heading1-night{
+    margin: 0;
+    padding-top: 10px;
+    color: white;
+}
+
+.pressure-heading2-morning{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.pressure-heading2-afternoon{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: black;
+}
+
+.pressure-heading2-night{
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    color: white;
+}
+
+.fifth-section{
+    width: 100%;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.col{
+    width: 20%;
+    background: rgb(0, 0, 0, 0.1);
+    border: 0.1px solid white;
+}
+
+.day{
+    margin: 0;
+    color: white;
+    font-size: 17px;
+    padding-top: 40px;
+}
+
+#day-icon{
+    color: white;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+.temp{
+    margin: 0;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
